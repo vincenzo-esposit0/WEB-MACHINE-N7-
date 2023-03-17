@@ -15,7 +15,7 @@ La macchina su cui è stato effettuato il penetration testing è presente al seg
 
 ## Documents
 ***
-A list of technologies used within the project:
+Lista dei documenti prodotti per il progetto:
 * Penetration testing project report: report in cui sono mostrati i risultati dell'attività di penetration testing
 * Penetration testing project metodologia utilizzata: mostra tutti i comandi e tool utilizzati durante la fase di penetration testing
 * Presentazione penetration testing
