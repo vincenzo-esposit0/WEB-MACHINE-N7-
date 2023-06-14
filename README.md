@@ -11,7 +11,10 @@
 ## General Info
 *** 
 Progetto realizzato per il corso di studio di Penetration Testing and Ethical Hacking.
-La macchina su cui è stato effettuato il penetration testing è presente al seguente link: [WEB MACHINE: (N7)](https://www.vulnhub.com/entry/web-machine-n7,756/)
+<br>
+Questo progetto mira a effettuare un processo di Penetration Testing etico utilizzando la macchina vulnerabile [WEB MACHINE: (N7)](https://www.vulnhub.com/entry/web-machine-n7,756/). L’attività include diverse fasi, come Target Scoping, Information Gathering, Target Discovery, Enumeration Target, Port Scanning, Vulnerability Mapping, Target Exploitation e PostExploitation. <br> <br>
+Il progetto prevede l’emulazione di due macchine virtuali, una attaccante e una vittima, utilizzando il software di virtualizzazione UTM. La macchina attaccante è Kali Linux versione Linux 5.17.0-kali3-amd64, mentre la macchina bersaglio è Web Machine: (N7). Le due macchine virtuali sono connesse attraverso una rete locale virtuale con NAT sulla piattaforma di virtualizzazione UTM, utilizzando uno spazio di indirizzi di 192.168.64.0/24. È importante notare che l’indirizzo IP assegnato alla macchina virtuale denominata "Web Machine: (N7)" non è predefinito ma viene stabilito dinamicamente tramite il protocollo DHCP.<br><br>
+Lo scopo del progetto è testare la sicurezza di Web Machine: (N7) utilizzando tecniche di Penetration Testing etico, che prevederanno l’individuazione di eventuali vulnerabilità e la proposta di soluzioni per affrontarle. Il presente progetto avrà l’obiettivo di condurre una valutazione sulla qualità della sicurezza del sistema in esame, allo scopo di identificare even- tuali criticità e proporre raccomandazioni per il miglioramento complessivo della sicurezza del sistema.
 
 ## Documents
 ***
